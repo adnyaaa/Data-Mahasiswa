@@ -8,7 +8,7 @@
     <meta name="description" content="">
         
     <title>Main Page</title>
-    <link rel="stylesheet" href="admin2105551099.css">
+    <link rel="stylesheet" href="2105551099_PHP_MySql/admin2105551099.css">
 </head>
 <body>
 <div>
@@ -31,9 +31,7 @@
                       <td>NIM</td>
                       <td> 2105551099 </td>
                   </tr>
-                      <td>Kelas</td>
-                      <td> Pemograman Internet E</td>
-                  </tr>
+     
               </table>
     </div>  
   <div class="container">
@@ -49,13 +47,13 @@
       <div>
        
               <p class="menu">
-                <a href="tambahdata.php">Tambah Data Mahasiswa</a>  
+                <a href="2105551099_PHP_MySql/tambahdata.php">Tambah Data Mahasiswa</a>  
               </p>
       </div>
       <div>
       
                 <p class="menu">
-                  <a href="datamhs.php">Lihat Data Mahasiswa</a>  
+                  <a href="2105551099_PHP_MySql/datamhs.php">Lihat Data Mahasiswa</a>  
                 </p>
       </div>
   </div>
