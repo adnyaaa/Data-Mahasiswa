@@ -70,9 +70,7 @@ require('koneksidb.php');
                                 <td>
                                     <?php echo $row["Kontakmhs"]; ?>
                                 </td>
-                                <td>
-                                    <?php echo $row["Jk"]; ?>
-                                </td>
+                         
                                 <td>
                                     <a href="editdata.php? NIM=<?php echo $row["NIM"]; ?>">Edit</a>
                                 </td>
