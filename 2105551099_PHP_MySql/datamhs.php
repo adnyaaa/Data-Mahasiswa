@@ -13,7 +13,7 @@ require('koneksidb.php');
 <body>
     <div>
         <div class="topnav">
-            <a href="index.php">Home</a>
+            <a href="../index.php">Home</a>
             <a href="tambahdata.php">Tambah Data Mhs</a>
             <a class="active" href="datamhs.php">Data Mahasiswa</a>
         </div>
