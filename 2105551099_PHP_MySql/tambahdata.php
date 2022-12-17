@@ -33,7 +33,7 @@
 <body>
     <div>
     <div class="topnav">
-        <a href="mainpage.php">Home</a>
+        <a href="../index.php">Home</a>
         <a class="active" href="tambahdata.php">Tambah Data Mhs</a>
         <a href="datamhs.php">Data Mahasiswa</a>
     </div>
