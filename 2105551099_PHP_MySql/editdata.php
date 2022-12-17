@@ -15,7 +15,7 @@
 <body>
 <div>
         <div class="topnav">
-            <a href="mainpage.php">Home</a>
+            <a href="../index.php">Home</a>
             <a href="tambahdata.php">Tambah Data Mhs</a>
             <a href="datamhs.php">Data Mahasiswa</a>
             <a class="active" href="editdata.php">Edit Data Mahasiswa</a>
